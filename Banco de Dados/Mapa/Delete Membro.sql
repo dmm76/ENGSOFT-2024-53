@@ -1,0 +1,1 @@
+DELETE FROM membro WHERE id_membro = 4
